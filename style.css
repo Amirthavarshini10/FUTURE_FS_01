@@ -1,0 +1,36 @@
+body{
+    font-family: Arial;
+    margin:0;
+    text-align:center;
+}
+
+header{
+    background:#333;
+    color:white;
+    padding:15px;
+}
+
+nav a{
+    color:white;
+    margin:15px;
+    text-decoration:none;
+}
+
+section{
+    padding:40px;
+}
+
+form input, textarea{
+    display:block;
+    width:60%;
+    margin:10px auto;
+    padding:10px;
+}
+
+button{
+    padding:10px 20px;
+    background:black;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
